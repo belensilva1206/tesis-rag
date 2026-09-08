@@ -1,0 +1,25 @@
+# Entornos virtuales
+venv/
+venv-ragas/
+
+# Variables de entorno / secretos
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Salidas del proyecto
+output/
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

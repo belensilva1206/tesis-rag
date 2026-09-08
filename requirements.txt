@@ -1,0 +1,15 @@
+pymupdf
+FlagEmbedding
+rank-bm25
+chromadb
+langgraph
+ollama
+python-docx
+python-pptx
+openpyxl
+pandas
+tabulate
+python-dotenv
+ragas>=0.2.14
+langchain-google-genai>=2.0
+datasets
